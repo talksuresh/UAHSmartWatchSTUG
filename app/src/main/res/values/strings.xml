@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">STUG</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_result">Result</string>
+    <string name="Stug">STUG</string>
+    <string name="start_button">START</string>
+    <string name="close_button">CLOSE</string>
+    <string name="stop_button">STOP</string>
+    <string name="next_page">HR</string>
+    <string name="hr_value">77</string>
+    <string name="result_title">steps</string>
+    <string name="result_num">17</string>
+    <string name="result_end">CLOSE</string>
+    <string name="test">hello</string>
+    <string name="result_timers">28.7</string>
+    <string name="fff">TIME</string>
+    <string name="result_time">--.-</string>
+    <string name="rr">RR</string>
+    <string name="hi">HI</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="result_rr">--</string>
+    <string name="result_hi">--</string>
+    <string name="result_sym">0.05</string>
+    <string name="symmetry">L/R</string>
+
+</resources>

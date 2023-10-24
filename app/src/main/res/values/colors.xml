@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#00101f</color>
+    <color name="dark_grey">#00101f</color>
+    <color name="black">#00101f</color>
+    <color name="green">#00101f</color>
+    <color name="dismiss_close_pressed">#00101f</color>
+    <color name="ambient_mode_text">#00101f</color>
+    <color name="btn_colored_background_material">#00101f</color>
+</resources>
